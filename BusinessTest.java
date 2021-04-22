@@ -1,4 +1,4 @@
-package Assignment5;
+package laxmiCSC123Sp21Ass5;
 
 import java.io.File;
 import java.io.FileNotFoundException;

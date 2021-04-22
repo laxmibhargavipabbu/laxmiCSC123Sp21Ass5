@@ -1,4 +1,4 @@
-package Assignment5;
+package laxmiCSC123Sp21Ass5;
 
 public interface MyFunctionalInterface 
 {

@@ -1,4 +1,4 @@
-package Assignment5;
+package laxmiCSC123Sp21Ass5;
 
 public class MotorizedVehicle extends Vehicle {
 	private double volumeDisplacement = 0.0;
